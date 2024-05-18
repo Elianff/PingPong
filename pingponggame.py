@@ -22,6 +22,7 @@ def draw_screen():
     pygame.display.update()
 
 
+
 def main():
     
     clock = pygame.time.Clock()
